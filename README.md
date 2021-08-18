@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Conoly and I'm passionate about creating simple solutions to complex problems through strategic data communication! I am currently getting a Master of Science in Business Analytics at McCombs School of Business at the Univeristy of Texas, and plan to be a life-long learner. 
+I'm Conoly and I'm passionate about creating simple solutions to complex problems through strategic data communication! I am currently getting a Master of Science in Business Analytics at McCombs School of Business at the Univeristy of Texas, and plan to be a life-long learner. Let's get it. 
 
 ### Intro ⚡
 
