@@ -1,0 +1,26 @@
+### Hi there 👋
+
+I'm Conoly and I'm passionate about creating simple solutions to complex problems through strategic data communication! I am currently getting a Master of Science in Business Analytics at McCombs School of Business at the Univeristy of Texas, and plan to be a life-long learner. 
+
+### Intro ⚡
+
+* LinkedIn: linkedin.com/in/conolycravens 
+* Computer Languages: R, Python, SQL
+* Computer Software: MS Word, Excel, PowerPoint, Access, Tableau, Salesforce
+
+🤔 *Warning: I am still a student writing code! This is full of mostly class projects. Take it with what you will!*
+
+<!--
+**conoly/conoly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
